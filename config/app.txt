@@ -1,1 +1,1 @@
-App configuration v1
+MAIN: config changed differently
