@@ -1,0 +1,2 @@
+Header component
+FEATURE: new header design
