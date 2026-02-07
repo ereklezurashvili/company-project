@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 MAIN: config changed differently
+=======
+FEATURE: config updated
+>>>>>>> feature
